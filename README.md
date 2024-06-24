@@ -9,6 +9,7 @@ C++          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 - 🌱 I’m currently learning Machine Learning & Algorithms Analysis
 - 💬 Ask me about Hackathons (My Devpost: [https://devpost.com/sahil-jagtap45](url))
 - 📫 Reach out to me here: [sjagtap2@gmu.edu](url) or [sahiljagtap.career@gmail.com](url)
+- My Linkedin: [https://linkedin.com/in/sahiljagtap08/](url)
 - ⚡ Fun fact: I hike and love playing soccer and cricket.
 - MY RESUME: [https://drive.google.com/file/d/1kIIFSDiwp0oyyPph2HuIQwrLndzG_Wd3/view?usp=sharing](url)
 
