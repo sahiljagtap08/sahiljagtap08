@@ -1,9 +1,8 @@
 ## Hi, I am Sahil Jagtap 👋
 
-**My top 2**:
+**My top 1**:
 
 C++          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 % 
-& Python       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 %
 
 - 📫 Software Engineer Intern @Trigent Solutions Inc. | Ex - Student Researcher @Microsoft
 - 🔭 I’m currently a Research Assistant @George Mason University focused on developing and training a deep learning model to aid neurodivergent people boost their focus.
