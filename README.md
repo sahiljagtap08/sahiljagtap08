@@ -2,8 +2,8 @@
 
 **My top 2**:
 
-C++          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 %
-Python       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 %
+-C++          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 %
+-Python       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 %
 
 - 🔭 I’m currently a Research Assistant @George Mason University focused on developing and training a deep learning model to aid neurodivergent people boost their focus.
 - 🌱 I’m currently learning Machine Learning & Algorithms Analysis
