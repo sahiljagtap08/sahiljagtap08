@@ -2,7 +2,7 @@
 
 **My top 4**:
 
-Typescript, C++, Python, Playing w LLM and AI infra cuz ur mum loves it.           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 % 
+Typescript, C++, Python, Playing w LLM and AI infra cuz ur mum loves it.
 
 
 - 📫 2x Software Engineer Internships | Ex - Student Researcher @Microsoft
