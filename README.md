@@ -1,15 +1,18 @@
-## Hi, I am Sahil Jagtap 👋
+## helluuu, this is sahil
 
-**My top 1**:
+**My top 4**:
 
-C++          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 % 
+Typescript          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 % 
+C++                 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 % 
+Python              ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 % 
+JavaScript          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 % 
+playin w llm infra  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 % 
 
-- 📫 Software Engineer Intern @Trigent Solutions Inc. | Ex - Student Researcher @Microsoft
+- 📫 2x Software Engineer Internships | Ex - Student Researcher @Microsoft
 - 🔭 I’m currently a Research Assistant @George Mason University focused on developing and training a deep learning model to aid neurodivergent people boost their focus.
-- 🌱 I’m currently learning Machine Learning & Algorithms Analysis
 - 💬 Ask me about Hackathons (My Devpost: [https://devpost.com/sahil-jagtap45](url))
 - 📫 Reach out to me here: [sjagtap2@gmu.edu](url) or [sahiljagtap.career@gmail.com](url)
 - My Linkedin: [https://linkedin.com/in/sahiljagtap08/](url)
 - ⚡ Fun fact: I hike and love playing soccer and cricket.
-- MY RESUME: [https://drive.google.com/file/d/1kIIFSDiwp0oyyPph2HuIQwrLndzG_Wd3/view?usp=sharing](url)
+
 
