@@ -3,10 +3,15 @@
 **My top 4**:
 
 Typescript          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 % 
+
 C++                 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 % 
+
 Python              ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 % 
+
 JavaScript          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 % 
+
 playin w llm infra  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100 % 
+
 
 - 📫 2x Software Engineer Internships | Ex - Student Researcher @Microsoft
 - 🔭 I’m currently a Research Assistant @George Mason University focused on developing and training a deep learning model to aid neurodivergent people boost their focus.
