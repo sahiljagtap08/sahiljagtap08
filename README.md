@@ -9,7 +9,7 @@
 
 ###  about me (like, the unhinged founder version)
 
--  founder @ [petal](https://trypetal.dev) — ai-first infra for everyone, not just 10x engineers
+-  founder @ [petal](https://trypetal.dev) — your technical co-founder, if they were an AI.
 -  i write a lot of `typescript`, `c++`, `go`, `python`, `js`, and hate unnecessary abstractions sometimes
 -  born in mumbai, building from SF / VA / random WeWorks
 -  obsessed with: **agentic design**, **infra that scales**, **systems that think**
@@ -19,8 +19,7 @@
 
 ###  current project highlights
 
-- 🧠 **Petal** — infra tools that *just work* for AI devs. Zero setup, max vibes → [trypetal.dev](https://trypetal.dev)
-- 🧠 **Barty** — real-time AI interviewer agents for smarter hiring (YC-style interviews, minus the awkward Zoom)
+- 🧠 **Petal** — from prompt to product. *no bullshit*. → [trypetal.dev](https://trypetal.dev)
 
 ---
 
