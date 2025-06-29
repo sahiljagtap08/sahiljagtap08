@@ -1,5 +1,5 @@
 <h1 align="center">hey, i’m sahil 🛠️</h1>
-<h3 align="center">founder @ <a href="https://trypetal.dev">petal</a> • systems brain 🧠 </h3>
+<h3 align="center">founder @ <a href="https://trypetal.dev">petal</a> • ship faster than your ADHD can pivot.  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=80&lines=building+agentic+infra+and+deep+systems;making+AI+less+boring;+trying+not+to+burn+out+before+product-market-fit" alt="Typing SVG" />
