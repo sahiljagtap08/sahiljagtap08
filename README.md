@@ -11,5 +11,6 @@ Typescript, C++, Python, Playing w LLM and AI infra cuz ur mum loves it.
 - 📫 Reach out to me here: [sjagtap2@gmu.edu](url) or [sahiljagtap.career@gmail.com](url)
 - My Linkedin: [https://linkedin.com/in/sahiljagtap08/](url)
 - ⚡ Fun fact: I hike and love playing soccer and cricket.
+- i am god speed with cursor and claude.
 
 
