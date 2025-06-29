@@ -10,7 +10,7 @@
 ###  about me (like, the unhinged founder version)
 
 -  founder @ [petal](https://trypetal.dev) — ai-first infra for everyone, not just 10x engineers
--  i write a lot of `go`, `c`, `python`, `js`, and hate unnecessary abstractions sometimes
+-  i write a lot of `typescript`, `c++`, `go`, `python`, `js`, and hate unnecessary abstractions sometimes
 -  born in mumbai, building from SF / VA / random WeWorks
 -  obsessed with: **agentic design**, **infra that scales**, **systems that think**
 -  when not debugging infra, I’m on a hike, watching cricket, or playing the uke off-key
