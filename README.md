@@ -1,4 +1,4 @@
-<h1 align="center">hey, i’m sahil 🛠️</h1>
+<h1 align="center">hey, i’m sahil </h1>
 <h3 align="center">founder @ <a href="https://trypetal.dev">petal</a> • ship faster than your ADHD can pivot.  </h3>
 
 <p align="center">
