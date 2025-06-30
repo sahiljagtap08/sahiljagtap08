@@ -31,30 +31,6 @@
 
 ---
 
-###  git flex
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahiljagtap08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahiljagtap08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahiljagtap08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-###  this profile has trophies now
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahiljagtap08&theme=algolia&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
----
-
 ###  links & portals
 
 -  [Portfolio](https://jagtap.tech)
