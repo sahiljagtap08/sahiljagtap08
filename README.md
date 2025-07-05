@@ -7,7 +7,7 @@
 
 ---
 
-###  about me (like, the unhinged founder version)
+###  about me 
 
 -  founder @ [petal](https://trypetal.dev) — your technical co-founder, if they were an AI.
 -  i write a lot of `typescript`, `c++`, `go`, `python`, `js`, and hate unnecessary abstractions sometimes
