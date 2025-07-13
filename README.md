@@ -1,5 +1,5 @@
 <h1 align="center">hey, i’m sahil </h1>
-<h3 align="center">founder @ <a href="https://trypetal.dev">petal</a> • ship faster than your ADHD can pivot.  </h3>
+<h3 align="center">founder @ <a href="https://trypetal.dev">petal</a> • AI that turns your words into working automation.  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=80&lines=building+agentic+infra+and+deep+systems;making+AI+less+boring;+trying+not+to+burn+out+before+product-market-fit" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ###  about me 
 
--  founder @ [petal](https://trypetal.dev) — your technical co-founder, if they were an AI.
+-  founder @ [petal](https://trypetal.dev) — Stop wrestling with MCP tools. Start describing what you want.
 -  i write a lot of `typescript`, `c++`, `go`, `python`, `js`, and hate unnecessary abstractions sometimes
 -  born in mumbai, building from SF / VA / random WeWorks
 -  obsessed with: **agentic design**, **infra that scales**, **systems that think**
