@@ -19,7 +19,7 @@
 
 ###  current project highlights
 
-- 🧠 **Petal** — from prompt to product. *no bullshit*. → [trypetal.dev](https://trypetal.dev)
+- 🧠 **Petal** — From natural language to automated workflows - see how Petal transforms your words into working automation. *no bullshit*. → [trypetal.dev](https://trypetal.dev)
 
 ---
 
