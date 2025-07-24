@@ -1,5 +1,5 @@
 <h1 align="center">hey, i’m sahil </h1>
-<h3 align="center">cofounder & cto @ <a href="https://trypetal.dev">airstitch</a> • AI that turns your words into working automation.  </h3>
+<h3 align="center">cofounder & cto @ <a href="https://airstitch.ai">airstitch</a> • AI that turns your words into working automation.  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=80&lines=building+agentic+infra+and+deep+systems;making+AI+less+boring;+trying+not+to+burn+out+before+product-market-fit" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ###  about me 
 
--  founder @ [petal](https://airstitch.ai) — Stop wrestling with MCP tools. Start describing what you want.
+-  founder @ [airstitch](https://airstitch.ai) — Stop wrestling with MCP tools. Start describing what you want.
 -  i write a lot of `typescript`, `c++`, `go`, `python`, `js`, and hate unnecessary abstractions sometimes
 -  born in mumbai, building from SF / VA / random WeWorks
 -  obsessed with: **agentic design**, **infra that scales**, **systems that think**
