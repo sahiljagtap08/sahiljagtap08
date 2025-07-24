@@ -1,5 +1,5 @@
 <h1 align="center">hey, i’m sahil </h1>
-<h3 align="center">founder @ <a href="https://trypetal.dev">petal</a> • AI that turns your words into working automation.  </h3>
+<h3 align="center">cofounder & cto @ <a href="https://trypetal.dev">airstitch</a> • AI that turns your words into working automation.  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=80&lines=building+agentic+infra+and+deep+systems;making+AI+less+boring;+trying+not+to+burn+out+before+product-market-fit" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ###  about me 
 
--  founder @ [petal](https://trypetal.dev) — Stop wrestling with MCP tools. Start describing what you want.
+-  founder @ [petal](https://airstitch.ai) — Stop wrestling with MCP tools. Start describing what you want.
 -  i write a lot of `typescript`, `c++`, `go`, `python`, `js`, and hate unnecessary abstractions sometimes
 -  born in mumbai, building from SF / VA / random WeWorks
 -  obsessed with: **agentic design**, **infra that scales**, **systems that think**
@@ -19,7 +19,7 @@
 
 ###  current project highlights
 
-- 🧠 **Petal** — From natural language to automated workflows - see how Petal transforms your words into working automation. *no bullshit*. → [trypetal.dev](https://trypetal.dev)
+- 🧠 **Airstitch** — From natural language to automated workflows - see how Airstitch transforms your words into working automation. *no bullshit*. → [airstitch.ai](https://airstitch.ai)
 
 ---
 
@@ -34,7 +34,7 @@
 ###  links & portals
 
 -  [Portfolio](https://jagtap.tech)
--  [Try Petal](https://trypetal.dev)
+-  [Join the Airstitch Waitlist!](https://airstitch.ai)
 -  [Twitter/X](https://x.com/twtofsahil)
 -  [LinkedIn](https://linkedin.com/in/sahiljagtap08)
 -  sahil.jagtap45@gmail.com
@@ -44,8 +44,8 @@
 ###  fun sahil facts
 
 - 🧗‍♂️ hiking clears my cache
-- 🏏 would cancel a meeting for a good India match
-- 🎵 accidentally a ukulele guy now
+- 🏏 would cancel a meeting for a good ind vs pak match
+- 🎵 accidentally a ukulele guy now (i hardly play it tbh)
 - 🧵 might start tweeting founder pain in meme form
 
 ---
