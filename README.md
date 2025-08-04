@@ -9,7 +9,7 @@
 
 ###  about me 
 
--  founder @ [airstitch](https://airstitch.ai) — Stop wrestling with MCP tools. Start describing what you want.
+-  co-founder & cto @ [airstitch](https://airstitch.ai) — Stop wrestling with MCP tools. Start describing what you want.
 -  i write a lot of `typescript`, `c++`, `go`, `python`, `js`, and hate unnecessary abstractions sometimes
 -  born in mumbai, building from SF / VA / random WeWorks
 -  obsessed with: **agentic design**, **infra that scales**, **systems that think**
