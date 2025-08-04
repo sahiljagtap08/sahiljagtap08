@@ -19,7 +19,7 @@
 
 ###  current project highlights
 
-- 🧠 **Airstitch** — From natural language to automated workflows - see how Airstitch transforms your words into working automation. *no bullshit*. → [airstitch.ai](https://airstitch.ai)
+- 🧠 **Airstitch** — From natural language to automated workflows - see how Airstitch transforms your words into working automation. → [airstitch.ai](https://airstitch.ai)
 
 ---
 
