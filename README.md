@@ -1,5 +1,5 @@
 # sahil jagtap
-**founder @ [airstitch](https://airstitch.ai)** — the AI assistant that lives in your texts
+**building @ [airstitch](https://airstitch.ai)** — the AI assistant that lives in your texts
 
 ---
 
