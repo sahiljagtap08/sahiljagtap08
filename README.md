@@ -7,7 +7,7 @@
 
 airstitch: text what you need, it happens. currently 150+ users, 24 paying customers, 90%+ retention. zero paid acquisition.
 
-we're the interface between you and your digital chaos — emails, calendar, tasks, all through imessage & whatsapp.
+we're the interface between you and your digital chaos — emails, calendar, tasks, all through imessage, sms, rcs & whatsapp.
 
 ---
 
