@@ -1,9 +1,11 @@
 # sahil jagtap
-**building @ [airstitch](https://airstitch.ai)** — the AI assistant that lives in your texts
+**building @ [agentbudget](https://agentbudget.dev)** — real-time cost enforcement for AI Agents
+
+2.3K+ installs, 65+ stars within a week
 
 ---
 
-### building in public
+### built in public and got acquired
 
 airstitch: text what you need, it happens. currently 150+ users, 24 paying customers, 90%+ retention. zero paid acquisition.
 
