@@ -1,7 +1,7 @@
 # sahil jagtap
 **building @ [agentbudget](https://agentbudget.dev)** — real-time cost enforcement for AI Agents
 
-2.3K+ installs, 65+ stars within a week
+3K+ installs, 85+ stars within a week
 
 ---
 
