@@ -4,7 +4,7 @@ cofounder & cto @ [cardamom](https://trycardamom.com) - voice ai for restaurants
 
 **building @ [agentbudget](https://agentbudget.dev)** — real-time cost enforcement for AI Agents
 
-3K+ installs, 85+ stars within a week
+100K+ installs
 
 ---
 
