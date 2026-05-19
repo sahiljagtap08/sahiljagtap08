@@ -1,6 +1,8 @@
 # sahil jagtap
 
-cofounder & cto @ [cardamom](https://trycardamom.com) - voice ai for restaurants that is stateful 
+rn just dilly-dallying!
+
+previously @ [cardamom](https://trycardamom.com) - voice ai for restaurants that is stateful 
 
 **building @ [agentbudget](https://agentbudget.dev)** — real-time cost enforcement for AI Agents
 
