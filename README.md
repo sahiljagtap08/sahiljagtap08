@@ -10,7 +10,7 @@ previously @ [cardamom](https://trycardamom.com) - voice ai for service-based bu
 
 100K+ installs
 
-if sometimes write as well:  @ [jagtap.tech](https://jagtap.tech)
+i sometimes write as well:  @ [jagtap.tech](https://jagtap.tech)
 
 ---
 
