@@ -2,7 +2,7 @@
 
 rn working on @ [drums](https://drums.sh) - self healing software (stem cells for software)
 
-once did private equity stuff. 
+once did private equity stuff @ [caelon](https://caelon.co)
 
 previously @ [cardamom](https://trycardamom.com) - voice ai for service-based businesses that is stateful 
 
