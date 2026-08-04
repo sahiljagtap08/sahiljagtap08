@@ -1,12 +1,16 @@
 # sahil jagtap
 
-rn just dilly-dallying!
+rn working on @ [drums](https://drums.sh) - self healing software (stem cells for software)
+
+once did private equity stuff. 
 
 previously @ [cardamom](https://trycardamom.com) - voice ai for service-based businesses that is stateful 
 
 **building @ [agentbudget](https://agentbudget.dev)** — real-time cost enforcement for AI Agents
 
 100K+ installs
+
+if sometimes write as well:  @ [jagtap.tech](https://jagtap.tech)
 
 ---
 
