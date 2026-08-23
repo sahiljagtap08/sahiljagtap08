@@ -16,7 +16,7 @@ i sometimes write as well:  @ [jagtap.tech](https://jagtap.tech)
 
 ### built in public and got acquired
 
-airstitch: text what you need, it happens. currently 150+ users, 24 paying customers, 90%+ retention. zero paid acquisition.
+airstitch: text what you need, it happens. currently 1000+ users, 90%+ retention. zero paid acquisition.
 
 we're the interface between you and your digital chaos — emails, calendar, tasks, all through imessage, sms, rcs & whatsapp.
 
@@ -24,6 +24,7 @@ we're the interface between you and your digital chaos — emails, calendar, tas
 
 ### before this
 
+- love contributing to open source hehe
 - fixed a production bug that took a startup from near-death → **$1M ARR** in 6 months
 - **microsoft** — ML pipelines processing petabytes of satellite imagery  
 - **NSF research lead** — wearable tech, 10M+ data points/day
@@ -34,7 +35,7 @@ we're the interface between you and your digital chaos — emails, calendar, tas
 
 ### stack i actually use daily
 
-python · typescript · fastapi · next.js · supabase · postgres · redis · cloudflare workers
+ur mum, i'm tech stack agnostic
 
 ---
 
