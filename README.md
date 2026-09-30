@@ -1,6 +1,8 @@
 # sahil jagtap
 
-rn working on @ [drums](https://drums.sh) - self healing software (stem cells for software)
+micropivot :)
+
+rn working on @ [drums](https://getdrums.app) - self healing software (stem cells for software)
 
 once did private equity stuff @ [caelon](https://caelon.co)
 
