@@ -1,7 +1,5 @@
 # sahil jagtap
 
-micropivot :) 
-
 rn working on @ [drums](https://drums.run) - more computer-use training on less hardware
 
 once worked on @ [drums_v1](https://getdrums.app) - self healing software (stem cells for software)
